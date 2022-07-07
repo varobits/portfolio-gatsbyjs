@@ -1,12 +1,13 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Digital Project Manager'
+company: 'Tinsa'
+location: 'Las Rozas de Madrid'
+range: 'Julio 2018 - Actualidad'
+url: 'https://www.tinsa.es/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Creación de nuevos productos y servicios con acceso online.
+- Gestión y coordinación de desarrollos y puesta en marcha de nuevas funcionalidades.
+- Desarrollo y mantenimiento de plataformas y servicios web del grupo (Europa & LATAM).
+- Planificación, desarrollo e implementación de la estrategia online del grupo.

@@ -1,12 +1,13 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Ecommerce Project Manager'
+company: 'Santa Marta'
+location: 'Las Rozas de Madrid'
+range: 'Abril 2016 - Junio 2018'
+url: 'https://www.santa-marta.es/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Puesta en marcha, desarrollo y mantenimiento de la plataforma e-commerce de la marca.
+- Diseño y ejecución de la estrategia de venta online (Google Ads, SEO, email marketing).
+- Configuración de producto en Amazon a través de Amazon Seller Central.
+- Gestión feed & stock de productos.
